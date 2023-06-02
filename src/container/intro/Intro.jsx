@@ -2,10 +2,10 @@ import React from 'react'
 
 import './into.css'
 
-const Into = () => {
+const Intro = () => {
   return (
-    <div>Into</div>
+    <div>Intor</div>
   )
 }
 
-export default Into
+export default Intro
