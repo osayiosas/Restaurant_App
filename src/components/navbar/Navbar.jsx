@@ -55,7 +55,7 @@ const Navbar = () => {
               fontSize={27}
               className="overlay__close"
               onClick={() => setToggleMenu(false)}
-            /> 
+            />
             <ul className="app__navbar-smallscreen_links">
               <li>
                 <a href="#home" onClick={() => setToggleMenu(false)}>
