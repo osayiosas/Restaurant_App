@@ -11,7 +11,7 @@
 'made use of the useRef for the slide image'
 
 
-## Added all the features and deployed on netfile.. 
+## Added all the features and deployed on netfily.. 
 
 * use npm start to start the project..
 
